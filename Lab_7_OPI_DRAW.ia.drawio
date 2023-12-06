@@ -1,0 +1,232 @@
+<mxfile host="app.diagrams.net" modified="2023-12-06T10:53:12.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="nm4KPgiW30fyNB16-VeI" version="22.1.5" type="device" pages="3">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="А0">
+    <mxGraphModel dx="1188" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2GxyuX0pcpuJ1hIbXi3z-1" value="Центр управління реєстрацією пацієнта" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GxyuX0pcpuJ1hIbXi3z-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2GxyuX0pcpuJ1hIbXi3z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="360" as="sourcePoint" />
+            <mxPoint x="260" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2GxyuX0pcpuJ1hIbXi3z-4" value="Запити від нового пацієнта або від медичного персоналу" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2GxyuX0pcpuJ1hIbXi3z-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2GxyuX0pcpuJ1hIbXi3z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="370" as="sourcePoint" />
+            <mxPoint x="820" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2GxyuX0pcpuJ1hIbXi3z-6" value="Створення нового запису для пацієнта в системі" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="370" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2GxyuX0pcpuJ1hIbXi3z-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2GxyuX0pcpuJ1hIbXi3z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="210" as="sourcePoint" />
+            <mxPoint x="430" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2GxyuX0pcpuJ1hIbXi3z-9" value="Менеджмент реєстраційного процесу" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="200" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2GxyuX0pcpuJ1hIbXi3z-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="2GxyuX0pcpuJ1hIbXi3z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="500" as="sourcePoint" />
+            <mxPoint x="430" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2GxyuX0pcpuJ1hIbXi3z-11" value="Визначення правил та процедур реєстрації" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="334" y="410" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2GxyuX0pcpuJ1hIbXi3z-12" value="А0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="225" y="555" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2GxyuX0pcpuJ1hIbXi3z-13" value="Реєстрація нового пацієнта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="289" y="555" width="250" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7YWMGvS-BiCQ2SBsVM9d" name="А1">
+    <mxGraphModel dx="2123" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k4NztY7R2XefYugUsf9l-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9-NPvEs_FgTE03Dd-_cv-1" target="k4NztY7R2XefYugUsf9l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-NPvEs_FgTE03Dd-_cv-1" value="Керування прийому інформації" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-NPvEs_FgTE03Dd-_cv-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9-NPvEs_FgTE03Dd-_cv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="400" as="sourcePoint" />
+            <mxPoint x="120" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-NPvEs_FgTE03Dd-_cv-3" value="Дані пацієнта (ПІБ, адреса, контактна інформація)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9-NPvEs_FgTE03Dd-_cv-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="9-NPvEs_FgTE03Dd-_cv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="800" as="sourcePoint" />
+            <mxPoint x="270" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-NPvEs_FgTE03Dd-_cv-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9-NPvEs_FgTE03Dd-_cv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="270" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k4NztY7R2XefYugUsf9l-2" value="Обробка інформації" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k4NztY7R2XefYugUsf9l-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="k4NztY7R2XefYugUsf9l-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="230" as="sourcePoint" />
+            <mxPoint x="550" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k4NztY7R2XefYugUsf9l-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="9-NPvEs_FgTE03Dd-_cv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="400" as="sourcePoint" />
+            <mxPoint x="820" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k4NztY7R2XefYugUsf9l-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k4NztY7R2XefYugUsf9l-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="570" as="sourcePoint" />
+            <mxPoint x="820" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k4NztY7R2XefYugUsf9l-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="k4NztY7R2XefYugUsf9l-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="800" as="sourcePoint" />
+            <mxPoint x="550" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k4NztY7R2XefYugUsf9l-11" value="Перевірка правильності інформації та подальший напрямок для обробки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k4NztY7R2XefYugUsf9l-12" value="Моніторинг якості введеної інформації" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="250" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k4NztY7R2XefYugUsf9l-13" value="Використання вбудованих алгоритмів для визначення правильності даних" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="670" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0I6leLxL8Xud7U9wZmar-1" value="Валідна інформація пацієнта." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0I6leLxL8Xud7U9wZmar-2" value="Створення унікального ідентифікатора пацієнта та передача даних до реєстру" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="650" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0I6leLxL8Xud7U9wZmar-3" value="Контроль за потоком даних та перевірка консистентності" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="70" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0I6leLxL8Xud7U9wZmar-4" value="Використання бази даних для зберігання та валідації інформації" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="670" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0I6leLxL8Xud7U9wZmar-5" value="А1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="140" y="840" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0I6leLxL8Xud7U9wZmar-6" value="Прийом інформації" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="840" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QFWJAKypoNSVB3ECClwk" name="А2">
+    <mxGraphModel dx="2253" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tLbpA73_gvr_t-MO6YAa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="tLbpA73_gvr_t-MO6YAa-1" target="tLbpA73_gvr_t-MO6YAa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLbpA73_gvr_t-MO6YAa-1" value="Система реєстрації" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLbpA73_gvr_t-MO6YAa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLbpA73_gvr_t-MO6YAa-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLbpA73_gvr_t-MO6YAa-2" value="Сигнал до медичного персоналу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLbpA73_gvr_t-MO6YAa-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="tLbpA73_gvr_t-MO6YAa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="760" as="sourcePoint" />
+            <mxPoint x="250" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLbpA73_gvr_t-MO6YAa-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="tLbpA73_gvr_t-MO6YAa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="160" as="sourcePoint" />
+            <mxPoint x="250" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLbpA73_gvr_t-MO6YAa-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tLbpA73_gvr_t-MO6YAa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="360" as="sourcePoint" />
+            <mxPoint x="90" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLbpA73_gvr_t-MO6YAa-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="tLbpA73_gvr_t-MO6YAa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="340" as="sourcePoint" />
+            <mxPoint x="820" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLbpA73_gvr_t-MO6YAa-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="tLbpA73_gvr_t-MO6YAa-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="160" as="sourcePoint" />
+            <mxPoint x="430" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGtjGEH_hIlCEzfAsksY-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="tLbpA73_gvr_t-MO6YAa-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="760" as="sourcePoint" />
+            <mxPoint x="440" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8hs0kU_RDfA0WGoCONkl-1" value="Унікальний ідентифікатор пацієнта та інші особисті дані" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="360" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8hs0kU_RDfA0WGoCONkl-2" value="Інтеграція з основною базою даних та оновлення інформації в системі" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="355" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8hs0kU_RDfA0WGoCONkl-3" value="Моніторинг інтеграції та забезпечення її успішності" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hs0kU_RDfA0WGoCONkl-4" value="Використання API та взаємодія з базою даних для зберігання та оновлення інформації" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="620" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8hs0kU_RDfA0WGoCONkl-5" value="Успішна реєстрація пацієнта" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8hs0kU_RDfA0WGoCONkl-6" value="Повідомлення медичному персоналу про нового пацієнта та підготовку до прийому" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="600" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8hs0kU_RDfA0WGoCONkl-7" value="Контроль за часом реакції медичного персоналу" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="60" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="8hs0kU_RDfA0WGoCONkl-8" value="Використання системи повідомлень та розкладу для організації прийому" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="650" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8hs0kU_RDfA0WGoCONkl-9" value="А2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="95" y="810" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8hs0kU_RDfA0WGoCONkl-10" value="Система реєстрації" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="810" width="190" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
